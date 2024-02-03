@@ -65,8 +65,5 @@ export function WeatherApp(){
                 </div>
             </div>
         </div>
-    )
-       
-    
-    
+    )   
 }
