@@ -33,7 +33,6 @@ export function WeatherApp(){
     }
     return(
         <div className="container-fluid">
-
             <div className="card">
                     <div className=" card-header">
                     <DateTime/>
