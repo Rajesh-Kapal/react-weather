@@ -2,7 +2,7 @@
   "name": "react-weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rajesh-Kapal.github.io/weather-react-app",
+  "homepage": "https://rajesh-kapal.github.io/react-weather/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
